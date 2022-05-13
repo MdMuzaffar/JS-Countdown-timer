@@ -1,0 +1,7 @@
+#countdown {
+    display: flex;
+    text-align: center;
+    padding-left: 50%;
+    padding-top: 10%;
+    color: blueviolet;
+}
